@@ -33,8 +33,8 @@
 #define TSS_ist 36 /* offsetof(struct tss_struct, x86_tss.ist)	# */
 #define TSS_sp0 4 /* offsetof(struct tss_struct, x86_tss.sp0)	# */
 
-#define __NR_syscall_max 331 /* sizeof(syscalls_64) - 1	# */
-#define NR_syscalls 332 /* sizeof(syscalls_64)	# */
+#define __NR_syscall_max 548 /* sizeof(syscalls_64) - 1	# */
+#define NR_syscalls 549 /* sizeof(syscalls_64)	# */
 #define __NR_syscall_compat_max 382 /* sizeof(syscalls_ia32) - 1	# */
 #define IA32_NR_syscalls 383 /* sizeof(syscalls_ia32)	# */
 

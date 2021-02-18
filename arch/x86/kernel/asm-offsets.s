@@ -192,11 +192,11 @@ main:
 # 0 "" 2
 # 64 "arch/x86/kernel/asm-offsets_64.c" 1
 	
-->__NR_syscall_max $331 sizeof(syscalls_64) - 1	#
+->__NR_syscall_max $548 sizeof(syscalls_64) - 1	#
 # 0 "" 2
 # 65 "arch/x86/kernel/asm-offsets_64.c" 1
 	
-->NR_syscalls $332 sizeof(syscalls_64)	#
+->NR_syscalls $549 sizeof(syscalls_64)	#
 # 0 "" 2
 # 67 "arch/x86/kernel/asm-offsets_64.c" 1
 	

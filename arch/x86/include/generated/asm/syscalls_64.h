@@ -423,3 +423,4 @@ __SYSCALL_64(546, compat_sys_preadv64v2, )
 #ifdef CONFIG_X86_X32_ABI
 __SYSCALL_64(547, compat_sys_pwritev64v2, )
 #endif
+__SYSCALL_64(548, sys_hello, )
