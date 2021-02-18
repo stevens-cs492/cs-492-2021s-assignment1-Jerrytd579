@@ -1,1 +1,0 @@
-cmd_/home/student/Assignment1/linux/kernelmodule/kernelModule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/Assignment1/linux/kernelmodule/kernelModule.ko /home/student/Assignment1/linux/kernelmodule/kernelModule.o /home/student/Assignment1/linux/kernelmodule/kernelModule.mod.o ;  true
