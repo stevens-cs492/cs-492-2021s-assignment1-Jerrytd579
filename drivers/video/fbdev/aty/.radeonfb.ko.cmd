@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/aty/radeonfb.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o drivers/video/fbdev/aty/radeonfb.ko drivers/video/fbdev/aty/radeonfb.o drivers/video/fbdev/aty/radeonfb.mod.o ;  true

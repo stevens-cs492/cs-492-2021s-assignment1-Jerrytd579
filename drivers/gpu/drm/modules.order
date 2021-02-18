@@ -1,0 +1,4 @@
+kernel/drivers/gpu/drm/ttm/ttm.ko
+kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko
+kernel/drivers/gpu/drm/vmwgfx/vmwgfx.ko
+kernel/drivers/gpu/drm/bochs/bochs-drm.ko
