@@ -334,5 +334,6 @@
 #define __NR_pkey_alloc 330
 #define __NR_pkey_free 331
 #define __NR_hello 548
+#define __NR_jerry_syscall 549
 
 #endif /* _ASM_X86_UNISTD_64_H */

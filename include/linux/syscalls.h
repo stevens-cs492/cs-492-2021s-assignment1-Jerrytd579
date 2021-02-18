@@ -904,5 +904,5 @@ asmlinkage long sys_pkey_alloc(unsigned long flags, unsigned long init_val);
 asmlinkage long sys_pkey_free(int pkey);
 
 asmlinkage long sys_hello(void);
-
+asmlinkage long jerry_syscall(char input[]);
 #endif

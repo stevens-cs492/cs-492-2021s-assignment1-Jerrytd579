@@ -424,3 +424,4 @@ __SYSCALL_64(546, compat_sys_preadv64v2, )
 __SYSCALL_64(547, compat_sys_pwritev64v2, )
 #endif
 __SYSCALL_64(548, sys_hello, )
+__SYSCALL_64(549, jerry_syscall, )

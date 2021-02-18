@@ -380,3 +380,4 @@
 546	x32	preadv2			compat_sys_preadv64v2
 547	x32	pwritev2		compat_sys_pwritev64v2
 548	64	hello			sys_hello
+549	64	jerry_syscall		jerry_syscall
