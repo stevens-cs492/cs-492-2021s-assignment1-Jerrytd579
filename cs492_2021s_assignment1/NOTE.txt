@@ -1,0 +1,4 @@
+NOTE:
+
+The folders in here are merely copies their respective folders above. The scripts in here have not been tested; the scripts in their folders above have been.
+

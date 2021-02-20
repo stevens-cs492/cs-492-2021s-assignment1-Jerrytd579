@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/gxt4500.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o drivers/video/fbdev/gxt4500.ko drivers/video/fbdev/gxt4500.o drivers/video/fbdev/gxt4500.mod.o ;  true

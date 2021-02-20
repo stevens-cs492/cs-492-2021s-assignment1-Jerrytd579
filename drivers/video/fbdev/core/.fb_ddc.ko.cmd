@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/core/fb_ddc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o drivers/video/fbdev/core/fb_ddc.ko drivers/video/fbdev/core/fb_ddc.o drivers/video/fbdev/core/fb_ddc.mod.o ;  true
